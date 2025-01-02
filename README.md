@@ -1,1 +1,3 @@
-### Motto: Commit. Push. Repeat. 
+### Motto: Commit. Push. Repeat. 🔁
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
