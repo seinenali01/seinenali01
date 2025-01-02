@@ -1,1 +1,1 @@
-## Commit. Push. Repeat. 
+### Motto: Commit. Push. Repeat. 
